@@ -1,6 +1,6 @@
 # Java Roadmap
 
-**Base on the roadmap:** [https://roadmap.sh/java](https://roadmap.sh/java)
+**Based on the roadmap:** [https://roadmap.sh/java](https://roadmap.sh/java)
 
 ---
 ## Basic Fundamentals **(Two weeks)**

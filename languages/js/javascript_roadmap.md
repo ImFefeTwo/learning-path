@@ -1,6 +1,6 @@
 # Javascript Roadmap
 
-**Base on the roadmap:** [https://roadmap.sh/javascript](https://roadmap.sh/javascript)
+**Based on the roadmap:** [https://roadmap.sh/javascript](https://roadmap.sh/javascript)
 
 ---
 

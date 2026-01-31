@@ -1,6 +1,6 @@
 # Python Roadmap
 
-**Base on the roadmap:** [https://roadmap.sh/python](https://roadmap.sh/python)
+**Based on the roadmap:** [https://roadmap.sh/python](https://roadmap.sh/python)
 
 ---
 ## Basic Fundamentals **(Two weeks)**
